@@ -1,0 +1,1 @@
+# gmp-lambda-dynamodb
